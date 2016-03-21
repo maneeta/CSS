@@ -1,0 +1,65 @@
+.container1{
+	
+	         background-image : url("../image/background.png");
+	         width: 55%;
+	         height : 800px;
+	        	
+           }
+           
+           
+.container2{
+	        
+	        background-image : url("../image/anoceanofsky.jpg");
+	        border : 10px solid white;
+	        background-repeat : no-repeat;
+	        margin-top : 1px;
+	        margin-left :8.5%;
+	        margin-right:;
+	        height : 325px;
+	        width : 95%;
+	        
+          }
+          
+          
+.container3{
+	
+            background-image:url("../image/content_back.png");
+		    border: 10px solid white;
+			width:92.5%;
+			margin-top:16px;
+			margin-left :10%;
+			padding : 10px;	
+} 
+
+
+          
+h3 {
+				color:white;
+				font-family:Palatino;
+				padding-top:25px;
+				padding-left:35px;
+				
+   }
+   
+ h5 {
+	color:lightblue;
+	font-size:12px;
+	font-family:palatino;
+	padding-left : 45px;
+	
+	  }  
+	  
+	  
+ p { 
+  		font-family: Helvetica;
+  	}
+  	
+ nav ul li a {
+  			
+  			color:white;
+  			margin-top:15px;
+  			margin-left:50px;
+  			/* margin: 10px 10px 0px 30px; */
+  	
+  }
+  	 		   

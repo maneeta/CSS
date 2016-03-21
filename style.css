@@ -1,0 +1,181 @@
+
+
+#wrapper{
+	border: 2px solid black;
+    height: 670px;
+    width: 650px;
+    background:white;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+#boxA1{
+	border:1px solid black;
+	height:124px;
+	width:624px;
+	background:brown;
+	float:right;
+	margin-top:10px;
+	margin-right:12px;
+}
+
+#boxA2{
+	border:1px solid black;
+	height:507px;
+	width:161px;
+	background:green;
+	float:right;
+	margin-right:475px;
+	margin-top:12px;
+	
+}
+
+#boxA3{
+	border:1px solid black;
+	height:171px;
+	width:449px;
+	background:red;
+	float:right;
+	margin-right:11px;
+	margin-top:-508px;
+	
+}
+
+.boxC1{
+	border:1px solid black;
+	height:175px;
+	width:130px;
+	background:blue;
+	float:right;
+	padding:5px;
+	margin-right:13px;
+	margin-top:-232px;
+	margin-bottom:50px
+	
+}
+
+
+.boxC2{
+	border:1px solid black;
+	height:59px;
+	width:142px;
+	background:pink;
+	margin-left:2px;
+	margin-top:43px;
+	padding:6px;
+	
+}
+
+
+#boxB1{
+	border:1px solid black;
+	height:155px;
+	width:185px;
+	background:purple;
+	margin-top:7px;
+	margin-left:8px;
+}
+
+
+.boxB2{
+	border:1px solid black;
+	height:100px;
+	width:100px;
+	background:orange;
+	margin-top:-118px;
+	margin-right:5px;
+	position:relative;
+	float:right;
+	padding:9px;
+		
+}
+
+.box3{
+	border:1px solid black;
+	height:47px;
+	width:49px;
+	background:yellow;
+	margin-right:9px;
+	margin-top:13px;
+	float:right;
+	
+}
+
+.box2{
+	border:1px solid black;
+	height:47px;
+	width:49px;
+	background:yellow;
+	margin-right:9px;
+	margin-top:13px;
+	float:right;
+	
+}
+
+.box1{
+	border:1px solid black;
+	height:47px;
+	width:49px;
+	background:yellow;
+	margin-right:9px;
+	margin-top:13px;
+	float:right;
+	
+}
+
+#boxC12{
+	border:1px solid black;
+	height:38px;
+	width:112px;
+	background:#00a8f9;
+	margin-left:9px;
+	margin-top:76px;
+		
+}
+
+#boxC13{
+	border:1px solid black;
+	height:38px;
+	width:112px;
+	background:#00a8f9;
+	margin-left:9px;
+	margin-top:76px;
+}
+
+#boxC11{
+	border:1px solid black;
+	height:38px;
+	width:112px;
+	background:#00a8f9;
+	margin-left:9px;
+	margin-top:76px;
+}
+
+#boxCA{
+	border:1px solid black;
+	height:30px;
+	width:63px;
+	background:#972fff;
+	margin-left:35px;
+	margin-top:17px;
+	
+}
+
+#boxCB{
+	border:1px solid black;
+	height:30px;
+	width:63px;
+	background:#972fff;
+	margin-left:35px;
+	margin-top:17px;
+}
+
+
+#boxCC{
+	border:1px solid black;
+	height:30px;
+	width:63px;
+	background:#972fff;
+	margin-left:35px;
+	margin-top:17px;
+}
